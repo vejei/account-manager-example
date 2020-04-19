@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Settings"/>
+    <PreferenceScreen
+        android:key="settings"
+        android:title="设置">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.example.accountmanagerexample"
+            android:targetClass="com.example.accountmanagerexample.SettingsActivity"/>
+    </PreferenceScreen>
+</PreferenceScreen>

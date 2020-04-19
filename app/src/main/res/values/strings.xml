@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AccountManagerExample</string>
+    <string name="settings_screen">Settings screen</string>
+    <string name="submit">submit</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="get_token">get token</string>
+    <string name="login">login</string>
+    <string name="logout">logout</string>
+    <string name="account_type">com.example</string>
+    <string name="content_authority">content_authority</string>
+</resources>
